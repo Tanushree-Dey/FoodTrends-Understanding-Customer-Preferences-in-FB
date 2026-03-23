@@ -66,7 +66,7 @@ Focus: Combined effect of lifestyle, nutrition, and diseases
 
 ## Tools & Technologies
 - Power BI used to build interactive dashboards and visual reports
-- Excel dataset used for data collection and preparation
+- Excel dataset used for data preparation
 - DAX functions applied to create custom calculations and KPIs
 ## Design Approach
 - Followed a clean and user-friendly layout to improve readability
