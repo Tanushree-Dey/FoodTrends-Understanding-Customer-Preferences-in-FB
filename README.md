@@ -8,6 +8,14 @@ This project presents a comprehensive analysis of nutrition, dietary behavior, a
 - Study relationships between diet and health conditions (BMI, diseases)
 - Compare diet types (Vegetarian, Vegan, Non-Vegetarian)
 - Provide data-driven insights for healthier lifestyle decisions
+## Data Sources
+The dataset used in this project was obtained from:
+Source: **Kaggle**
+
+https://www.kaggle.com/
+
+The datasets contain information related to food habits, nutrition intake, demographic characteristics, and health conditions.
+
 ## Dashboard Overview
 ### 1. Dietary Preferences & Averages
 Focus: Understanding eating habits, meal distribution, and nutrient intake
@@ -73,7 +81,7 @@ Focus: Combined effect of lifestyle, nutrition, and diseases
 ## Conclusion
 This project highlights how data visualization can simplify complex nutrition and lifestyle data. It provides clear insights that help in understanding patterns and making better health-related decisions. this dashboard helps us understand the relationship between lifestyle, diet, physical activity, and health conditions, allowing better insights into how nutrition impacts overall health.
 ## Author
-Tanushree Dey
+**Tanushree Dey**
 
 MSc Statistics & Data Science
 
