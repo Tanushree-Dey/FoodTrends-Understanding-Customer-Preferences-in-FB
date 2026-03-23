@@ -8,7 +8,7 @@ This project presents a comprehensive analysis of nutrition, dietary behavior, a
 - Study relationships between diet and health conditions (BMI, diseases)
 - Compare diet types (Vegetarian, Vegan, Non-Vegetarian)
 - Provide data-driven insights for healthier lifestyle decisions
-## Data Sources
+## Data Source
 The dataset used in this project was obtained from:
 
 Source: **Kaggle**
