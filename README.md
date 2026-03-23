@@ -10,3 +10,11 @@ This project presents a comprehensive analysis of nutrition, dietary behavior, a
 - Provide data-driven insights for healthier lifestyle decisions
 ## Dashboard Overview
 ### 1. Dietary Preferences & Averages
+Focus: Understanding eating habits, meal distribution, and nutrient intake
+## Key Insights:
+- Lunch and dinner have the highest food and calorie intake.
+- Nutrient intake is fairly balanced across meals.
+- Water intake peaks at dinner.
+- Calories and protein show a positive correlation.
+- Sugar values are mostly low but show occasional spikes across cholesterol levels.
+<img width="1429" height="801" alt="image" src="https://github.com/user-attachments/assets/c69b0610-c514-47d2-ad24-92bca103092f" />
