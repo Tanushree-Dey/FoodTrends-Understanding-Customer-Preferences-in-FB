@@ -10,11 +10,16 @@ This project presents a comprehensive analysis of nutrition, dietary behavior, a
 - Provide data-driven insights for healthier lifestyle decisions
 ## Data Sources
 The dataset used in this project was obtained from:
+
 Source: **Kaggle**
 
 https://www.kaggle.com/
 
+https://www.kaggle.com/code/maicolab/daily-nutrition-analysis-en/input
+
 The datasets contain information related to food habits, nutrition intake, demographic characteristics, and health conditions.
+
+The data was cleaned and transformed before being used in Power BI.
 
 ## Dashboard Overview
 ### 1. Dietary Preferences & Averages
