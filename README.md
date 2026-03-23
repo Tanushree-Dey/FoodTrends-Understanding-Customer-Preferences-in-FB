@@ -63,23 +63,23 @@ Focus: Combined effect of lifestyle, nutrition, and diseases
 <img width="1415" height="801" alt="image" src="https://github.com/user-attachments/assets/432d8bc8-2c79-4a9f-bc17-3c55fd6112cd" />
 
 ## Tools & Technologies
-- Power BI used to build interactive dashboards and visual reports
-- Excel dataset used for data preparation
-- DAX functions applied to create custom calculations and KPIs
+- Power BI used to build interactive dashboards and visual reports.
+- Excel dataset used for data preparation.
+- DAX functions applied to create custom calculations and KPIs.
 ## Design Approach
-- Followed a clean and user-friendly layout to improve readability
-- Used visuals that make data easy to understand at a glance
-- Focused on showing insights clearly rather than overloading information
+- Followed a clean and user-friendly layout to improve readability.
+- Used visuals that make data easy to understand at a glance.
+- Focused on showing insights clearly rather than overloading information.
 - Ensured dashboards are interactive for better user exploration.
 ## Key Learnings
-- Learned how to turn raw data into meaningful insights
-- Gained experience in choosing effective visuals for different data types
-- Improved understanding of data storytelling using dashboards
-- Understood the importance of user-focused dashboard design
+- Learned how to turn raw data into meaningful insights.
+- Gained experience in choosing effective visuals for different data types.
+- Improved understanding of data storytelling using dashboards.
+- Understood the importance of user-focused dashboard design.
 ## Future Improvements
-- Introduce recommendation-based insights for better decision-making
-- Add more interactive features and drill-down options
-- Work with larger datasets for deeper analysis
+- Introduce recommendation-based insights for better decision-making.
+- Add more interactive features and drill-down options.
+- Work with larger datasets for deeper analysis.
 - Enhance dashboards with more detailed insights and comparisons.
 ## Conclusion
 This project highlights how data visualization can simplify complex nutrition and lifestyle data. It provides clear insights that help in understanding patterns and making better health-related decisions. this dashboard helps us understand the relationship between lifestyle, diet, physical activity, and health conditions, allowing better insights into how nutrition impacts overall health.
@@ -88,4 +88,4 @@ This project highlights how data visualization can simplify complex nutrition an
 
 M.Sc. Tech (Statistics & Data Science)
 
-Interested in Data Analytics, Machine Learning, and Visualization
+Interested in Data Analytics.
