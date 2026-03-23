@@ -15,8 +15,6 @@ Source: **Kaggle**
 
 https://www.kaggle.com/
 
-https://www.kaggle.com/code/maicolab/daily-nutrition-analysis-en/input
-
 The datasets contain information related to food habits, nutrition intake, demographic characteristics, and health conditions.
 
 The data was cleaned and transformed before being used in Power BI.
@@ -56,7 +54,7 @@ Focus: Impact of breakfast choices on calorie intake and lifestyle
 ### 4. Lifestyle and Nutrition Impact
 Focus: Combined effect of lifestyle, nutrition, and diseases
 ## Key Insights:
--Average calorie intake aligns closely with daily calorie targets.
+- Average calorie intake aligns closely with daily calorie targets.
 - Protein intake varies significantly with activity level.
 - Extremely active individuals consume higher protein and sugar levels.
 - Weight is positively associated with calorie and nutrient intake.
