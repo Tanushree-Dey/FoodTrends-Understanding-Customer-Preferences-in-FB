@@ -73,6 +73,8 @@ Focus: Combined effect of lifestyle, nutrition, and diseases
 ## Conclusion
 This project highlights how data visualization can simplify complex nutrition and lifestyle data. It provides clear insights that help in understanding patterns and making better health-related decisions. this dashboard helps us understand the relationship between lifestyle, diet, physical activity, and health conditions, allowing better insights into how nutrition impacts overall health.
 ## Author
-Tanushree Dey␠␠
-MSc Statistics & Data Science␠␠
+Tanushree Dey
+
+MSc Statistics & Data Science
+
 Interested in Data Analytics, Machine Learning, and Visualization
