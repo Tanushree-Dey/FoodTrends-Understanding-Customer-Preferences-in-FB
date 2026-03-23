@@ -86,6 +86,6 @@ This project highlights how data visualization can simplify complex nutrition an
 ## Author
 **Tanushree Dey**
 
-MSc Statistics & Data Science
+M.Sc. Tech (Statistics & Data Science)
 
 Interested in Data Analytics, Machine Learning, and Visualization
