@@ -18,6 +18,7 @@ Focus: Understanding eating habits, meal distribution, and nutrient intake
 - Calories and protein show a positive correlation.
 - Sugar values are mostly low but show occasional spikes across cholesterol levels.
 <img width="1429" height="801" alt="image" src="https://github.com/user-attachments/assets/c69b0610-c514-47d2-ad24-92bca103092f" />
+
 ### 2. Nutrients and Diseases
 Focus: Relationship between diet, health conditions, and lifestyle
 ## Key Insights:
@@ -28,6 +29,7 @@ Focus: Relationship between diet, health conditions, and lifestyle
 - Exercise level has a noticeable impact on BMI distribution.
 - Strong connection between diet type, sugar intake, and health outcomes.
 <img width="1418" height="797" alt="image" src="https://github.com/user-attachments/assets/3bb7026b-15ec-4f4b-b140-84c18b6db146" />
+
 ### 2. Averages by Breakfast Suggestions
 Focus: Impact of breakfast choices on calorie intake and lifestyle
 ## Key Insights:
@@ -37,6 +39,7 @@ Focus: Impact of breakfast choices on calorie intake and lifestyle
 - Most individuals follow omnivore and vegan dietary preferences.
 - Breakfast choices contribute noticeably to overall daily calorie intake.
 <img width="1419" height="798" alt="image" src="https://github.com/user-attachments/assets/4e2e5029-1f56-4c46-a99a-3c859b9747b4" />
+
 ### 4. Lifestyle and Nutrition Impact
 Focus: Combined effect of lifestyle, nutrition, and diseases
 ## Key Insights:
